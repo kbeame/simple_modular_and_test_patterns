@@ -1,0 +1,20 @@
+{
+  "name": "kat",
+  "version": "1.0.0",
+  "description": "Codefellows practice for 401",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "gulp": "^3.9.1",
+    "mocha": "^2.4.5"
+  },
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha"
+  },
+  "author": "katherine.beame@gmail.com",
+  "license": "ISC"
+}
