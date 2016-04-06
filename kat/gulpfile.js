@@ -29,7 +29,7 @@ gulp.task('lint:js', function () {
 });
 
 gulp.task('mocha', function () {
-  return gulp.src('./test/**/*test.js', {read: false})
+  return gulp.src('./test/**/*test.js')
   .pipe(mocha({reporter: 'nyan'}));
 });
 
