@@ -7,3 +7,8 @@ Create a basic Node modular pattern with a function, greet that takes a name and
   * gulp lint:js uses eslint to go through all the rest of the files (except package.json)       and lints them
   * gulp mocha runs the mocha test to verify the output of the greet function
   * watchFiles is a gulp watch task that runs all of the previous gulp tasks if any of the relevant files are touched.
+
+##Resources Used
+  * Treehouse watch tutorial
+  * https://www.npmjs.com/package/gulp-mocha
+  * Lecture videos
